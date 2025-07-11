@@ -16,7 +16,7 @@
 <th>BENGALI</th>
 </tr>
 <tr>
-<td>RAM</td>
+<td>RAMCHAND</td>
 <td>90</td>
 <td>86</td>
 </tr>
